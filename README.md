@@ -24,7 +24,7 @@
 1 - Download the libraries tesnsorflow, flasak e jasonify.
 
 
-2 - DDownload the files, open them and run.
+2 - Download the files, open them and run.
 
 
  It's interestig to learn about the functions of code so you can play with it the way you want!
